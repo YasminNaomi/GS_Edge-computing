@@ -15,36 +15,37 @@ Este projeto tem como objetivo monitorar a qualidade da água utilizando um Ardu
 
 
 # Componentes Necessários
-*[1 Arduino (UNO, Mega ou outro compatível)]
-*[1 Sensor de Temperatura (NTC ou outro similar)]
-*[1 Sensor de pH (simulado com um potenciômetro)]
-*[1 Sensor de Qualidade da Água (simulado com um potenciômetro)]
-*[1 Buzzer]
-*[1 Botão]
-*[Jumpers e Protoboard]
+- 1 Arduino (UNO, Mega ou outro compatível
+- 1 Sensor de Temperatura (NTC ou outro similar)
+- 1 Sensor de pH (simulado com um potenciômetro)]
+- 1 Sensor de Qualidade da Água (simulado com um potenciômetro)]
+- 1 Buzzer
+- 1 Botão
+- Jumpers e Protoboard
+  
 
 # Circuito
-*[Conecte o Sensor de Temperatura ao pino A0 do Arduino.]
-*[Conecte o Sensor de pH ao pino A1 do Arduino (simulado com um potenciômetro).]
-*[Conecte o Sensor de Qualidade da Água ao pino A2 do Arduino (simulado com um potenciômetro)]
-*[Conecte o pino central do botão ao pino 7 do Arduino e um dos pinos laterais ao GND.]
-*[Conecte o Buzzer ao pino 9 do Arduino.]
+- Conecte o Sensor de Temperatura ao pino A0 do Arduino.]
+- Conecte o Sensor de pH ao pino A1 do Arduino (simulado com um potenciômetro
+- Conecte o Sensor de Qualidade da Água ao pino A2 do Arduino (simulado com um potenciômetro)
+- Conecte o pino central do botão ao pino 7 do Arduino e um dos pinos laterais ao GND
+- Conecte o Buzzer ao pino 9 do Arduino
 
 # Instruções de Uso
 #As instruções estão presentes no arquivo de arduino.
 
 # Requisitos e Dependências
-*[Arduino IDE: Certifique-se de ter a versão mais recente do Arduino IDE instalada no seu computador.]
-*[Bibliotecas: O código utiliza apenas bibliotecas padrão da Arduino IDE.]
-*[Hardware: Componentes listados na seção de componentes necessários.]
+- Arduino IDE: Certifique-se de ter a versão mais recente do Arduino IDE instalada no seu computador.
+- Bibliotecas: diponível no código (tinkercad)
+- Hardware: Componentes listados na seção de componentes necessários
 
 # Observações
-*[Os sensores de pH e qualidade da água são simulados com potenciômetros. Para uma aplicação real, substitua-os por sensores adequados.]
-*[Ajuste os valores de mapeamento conforme necessário para calibrar corretamente os sensores utilizados.]
-*[Possíveis Melhorias]
-*[Integração com um display LCD para exibição local dos dados.]
-*[Adição de conectividade Wi-Fi ou Bluetooth para monitoramento remoto.]
-*[Implementação de algoritmos de calibragem para aumentar a precisão dos sensores.]
+- Os sensores de pH e qualidade da água são simulados com potenciômetros. Para uma aplicação real, substitua-os por sensores adequados
+- Ajuste os valores de mapeamento conforme necessário para calibrar corretamente os sensores utilizados
+- Possíveis Melhorias
+- Integração com um display LCD para exibição local dos dados
+- Adição de conectividade Wi-Fi ou Bluetooth para monitoramento remoto
+- Implementação de algoritmos de calibragem para aumentar a precisão dos sensores
 
 # INTEGRANTES
 # Yasmin Naomi Minemoto RM 559154
