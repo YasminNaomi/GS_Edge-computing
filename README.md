@@ -4,6 +4,7 @@
 
 # Detalhes do Projeto
 Este projeto tem como objetivo monitorar a qualidade da água utilizando um Arduino. O sistema lê dados de temperatura, pH e qualidade da água, exibindo essas informações no Serial Monitor do Arduino. Além disso, um botão é usado para ativar um alarme sonoro através de um buzzer.
+link para acesso ao arduino [https://www.tinkercad.com/things/btZ2kLt1366-cool-esboo?sharecode=RwmIPjCwwXdtb7x2cz8OFSp-08kVLIRbutCtrZ_JSUw]
 
 # :hammer: Funcionalidades do projeto
 
@@ -32,7 +33,7 @@ Este projeto tem como objetivo monitorar a qualidade da água utilizando um Ardu
 - Conecte o Buzzer ao pino 9 do Arduino
 
 # Instruções de Uso
-#As instruções estão presentes no arquivo de arduino.
+- As instruções estão presentes no arquivo de arduino.
 
 # Requisitos e Dependências
 - Arduino IDE: Certifique-se de ter a versão mais recente do Arduino IDE instalada no seu computador.
@@ -48,6 +49,6 @@ Este projeto tem como objetivo monitorar a qualidade da água utilizando um Ardu
 - Implementação de algoritmos de calibragem para aumentar a precisão dos sensores
 
 # INTEGRANTES
-# Yasmin Naomi Minemoto RM 559154
-# Davi dos Reis Garcia RM 556741
+- Yasmin Naomi Minemoto RM 559154
+- Davi dos Reis Garcia RM 556741
 
