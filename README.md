@@ -7,6 +7,9 @@ Este projeto tem como objetivo monitorar a qualidade da água utilizando um Ardu
 
 🔗link para acesso ao arduino: https://www.tinkercad.com/things/btZ2kLt1366-cool-esboo?sharecode=RwmIPjCwwXdtb7x2cz8OFSp-08kVLIRbutCtrZ_JSUw
 
+# Observação
+Caso o vídeo não funcione, aqui segue link para acesso no Youtube: https://youtu.be/M-ZZTi3kTSs
+
 # :hammer: Funcionalidades do projeto
 
 - `Leitura de Temperatura`: O sensor de temperatura conectado ao pino A0 lê a temperatura da água e a converte para graus Celsius.
