@@ -27,14 +27,14 @@ Este projeto tem como objetivo monitorar a qualidade da água utilizando um Ardu
   
 
 # Circuito
-- Conecte o Sensor de Temperatura ao pino A0 do Arduino.]
-- Conecte o Sensor de pH ao pino A1 do Arduino (simulado com um potenciômetro
-- Conecte o Sensor de Qualidade da Água ao pino A2 do Arduino (simulado com um potenciômetro)
-- Conecte o pino central do botão ao pino 7 do Arduino e um dos pinos laterais ao GND
-- Conecte o Buzzer ao pino 9 do Arduino
+1. Conecte o Sensor de Temperatura ao pino A0 do Arduino.]
+2. Conecte o Sensor de pH ao pino A1 do Arduino (simulado com um potenciômetro
+3. Conecte o Sensor de Qualidade da Água ao pino A2 do Arduino (simulado com um potenciômetro)
+4. Conecte o pino central do botão ao pino 7 do Arduino e um dos pinos laterais ao GND
+5. Conecte o Buzzer ao pino 9 do Arduino
 
 # Instruções de Uso
-- As instruções estão presentes no arquivo de arduino.
+- As instruções estão presentes no arquivo de arduino
 
 # Requisitos e Dependências
 - Arduino IDE: Certifique-se de ter a versão mais recente do Arduino IDE instalada no seu computador.
